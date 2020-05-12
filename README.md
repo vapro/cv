@@ -1,2 +1,4 @@
 # cv
-CV Online para convertirlo a cualquier formato, cuando sea necesario 
+
+Repositorio donde guardo mi CV para luego convertirlo a cualquier formato, cuando sea necesario.
+
